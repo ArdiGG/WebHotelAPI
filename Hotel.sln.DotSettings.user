@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c239a854_002Dca90_002D45b1_002D837c_002D4945bf1aeca3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestMethod1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::990CB084-82C9-459E-A879-7296B57996AF::.NETFramework,Version=v4.7.2::Hotel.Test.GuestControllerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::990CB084-82C9-459E-A879-7296B57996AF::.NETFramework,Version=v4.7.2::Hotel.Test.RoomCategoryTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::990CB084-82C9-459E-A879-7296B57996AF::.NETFramework,Version=v4.7.2::Hotel.Test.RoomControllerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::990CB084-82C9-459E-A879-7296B57996AF::.NETFramework,Version=v4.7.2::Hotel.Test.RoomCategoryControllerTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::990CB084-82C9-459E-A879-7296B57996AF::.NETFramework,Version=v4.7.2::Hotel.Test.BookingControllerTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
